@@ -1,2 +1,8 @@
 # vishnu-frontend-developer
-Created with CodeSandbox
+
+## Setup and Run App
+
+- `git clone <url>`
+- `cd vishnu-frontend-developer`
+- `npm i` or `yarn`
+- `npm start`
